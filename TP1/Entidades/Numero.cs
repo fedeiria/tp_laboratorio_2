@@ -232,7 +232,7 @@ namespace Entidades
         /// <returns>Resultado</returns>
         public static double operator /(Numero n1, Numero n2)
         {
-            double resultado = 0;
+            double resultado = double.MinValue;
 
             if (n2.numero != 0)
             {

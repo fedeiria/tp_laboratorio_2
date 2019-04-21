@@ -17,9 +17,9 @@ namespace Entidades
         /// <returns>Operador valido, si el operador no es valido devuelve '+'</returns>
         private static string ValidarOperador(string operador)
         {
-            string pattern = "[+---*-/]";
+            string patron = "[+---*-/]";
 
-            if (Regex.IsMatch(operador, pattern))
+            if (Regex.IsMatch(operador, patron))
             {
                 return operador;
             }
