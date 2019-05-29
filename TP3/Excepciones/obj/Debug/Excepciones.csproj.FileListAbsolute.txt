@@ -1,0 +1,17 @@
+D:\C#\Iriarte.Federico.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\C#\Iriarte.Federico.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+E:\C#\Iriarte.Federico.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\C#\Iriarte.Federico.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+E:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+E:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+F:\C#\Iriarte.Federico.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\C#\Iriarte.Federico.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+F:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
