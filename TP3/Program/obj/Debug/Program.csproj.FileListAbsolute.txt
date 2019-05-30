@@ -46,3 +46,35 @@ F:\C#\Iriarte.Federico.2D.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs
 F:\C#\Iriarte.Federico.2D.TP3\Program\obj\Debug\Program.csproj.CopyComplete
 F:\C#\Iriarte.Federico.2D.TP3\Program\obj\Debug\Program.exe
 F:\C#\Iriarte.Federico.2D.TP3\Program\obj\Debug\Program.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\Program.exe.config
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\Program.exe
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\Program.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\Excepciones.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\Archivos.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\Excepciones.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\bin\Debug\Archivos.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\obj\Debug\Program.exe
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Program\obj\Debug\Program.pdb
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\Program.exe.config
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\Program.exe
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\Program.pdb
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\EntidadesAbstractas.dll
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\EntidadesInstanciables.dll
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\Excepciones.dll
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\Archivos.dll
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\EntidadesAbstractas.pdb
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\EntidadesInstanciables.pdb
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\Excepciones.pdb
+D:\C#\Lab2 2019\TP3\Program\bin\Debug\Archivos.pdb
+D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.csproj.CopyComplete
+D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.exe
+D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.pdb

@@ -15,3 +15,14 @@ F:\C#\Iriarte.Federico.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
 F:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 F:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
 F:\C#\Iriarte.Federico.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\C#\Lab2 2019\TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\C#\Lab2 2019\TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.pdb

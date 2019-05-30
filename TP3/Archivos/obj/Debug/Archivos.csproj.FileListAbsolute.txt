@@ -25,3 +25,21 @@ F:\C#\Iriarte.Federico.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInpu
 F:\C#\Iriarte.Federico.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 F:\C#\Iriarte.Federico.2D.TP3\Archivos\obj\Debug\Archivos.dll
 F:\C#\Iriarte.Federico.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\Archivos\obj\Debug\Archivos.pdb
+D:\C#\Lab2 2019\TP3\Archivos\bin\Debug\Archivos.dll
+D:\C#\Lab2 2019\TP3\Archivos\bin\Debug\Archivos.pdb
+D:\C#\Lab2 2019\TP3\Archivos\bin\Debug\Excepciones.dll
+D:\C#\Lab2 2019\TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.dll
+D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.pdb
