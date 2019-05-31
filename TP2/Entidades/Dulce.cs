@@ -10,9 +10,7 @@ namespace Entidades_2018
     {
         #region "Constructores"
         public Dulce(EMarca marca, string codigo, ConsoleColor color)
-            : base(codigo, marca, color)
-        {
-        }
+            : base(codigo, marca, color) { }
         #endregion
 
         #region "Propiedades"
