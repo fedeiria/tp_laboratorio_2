@@ -23,7 +23,7 @@ namespace Archivos
 
             try
             {
-                sw = new StreamWriter(archivo, true);
+                sw = new StreamWriter(archivo);
                 sw.WriteLine(datos);
             }
             catch (Exception e)

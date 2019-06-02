@@ -1,0 +1,43 @@
+CLASE DE Laboratorio POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+CLASES DEL DIA:
+SPD
+Laboratorio
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NUMERO: 7
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Laboratorio
+<---------------------------------------------->
+
+CLASE DE Laboratorio POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+CLASES DEL DIA:
+Laboratorio
+SPD
+
+ALUMNOS:
+NOMBRE COMPLETO: Martinez, Juana
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 2
+
+ESTADO DE CUENTA: Becado
+TOMA CLASES DE Laboratorio
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NUMERO: 7
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Laboratorio
+<---------------------------------------------->
+

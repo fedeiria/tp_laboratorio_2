@@ -25,3 +25,30 @@ F:\C#\Iriarte.Federico.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.
 F:\C#\Iriarte.Federico.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
 F:\C#\Iriarte.Federico.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
 F:\C#\Iriarte.Federico.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Fede\Documents\GitHub\tp_laboratorio_2\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\C#\Lab2 2019\TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

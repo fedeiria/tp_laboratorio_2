@@ -51,9 +51,9 @@ namespace EntidadesInstanciables
         /// </summary>
         private void _randomClases()
         {
-            this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(1, 4));
+            this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(0, 3));
             Thread.Sleep(1000);
-            this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(1, 4));
+            this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(0, 3));
         }
         #endregion
 
