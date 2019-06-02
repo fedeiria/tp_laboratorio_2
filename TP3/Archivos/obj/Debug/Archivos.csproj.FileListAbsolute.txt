@@ -43,6 +43,7 @@ D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
 D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.dll
 D:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.pdb
+<<<<<<< HEAD
 F:\C#\Lab2 2019\TP3\Archivos\bin\Debug\Archivos.dll
 F:\C#\Lab2 2019\TP3\Archivos\bin\Debug\Archivos.pdb
 F:\C#\Lab2 2019\TP3\Archivos\bin\Debug\Excepciones.dll
@@ -52,3 +53,5 @@ F:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
 F:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 F:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.dll
 F:\C#\Lab2 2019\TP3\Archivos\obj\Debug\Archivos.pdb
+=======
+>>>>>>> de2094d0f3f6ef6c7950acd1a25e4153ddb45830

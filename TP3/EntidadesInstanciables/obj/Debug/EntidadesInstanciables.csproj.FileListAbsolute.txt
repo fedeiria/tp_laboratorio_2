@@ -63,6 +63,7 @@ D:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.cspr
 D:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
 D:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
 D:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+<<<<<<< HEAD
 F:\C#\Lab2 2019\TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
 F:\C#\Lab2 2019\TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
 F:\C#\Lab2 2019\TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
@@ -76,3 +77,5 @@ F:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.cspr
 F:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
 F:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
 F:\C#\Lab2 2019\TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+=======
+>>>>>>> de2094d0f3f6ef6c7950acd1a25e4153ddb45830

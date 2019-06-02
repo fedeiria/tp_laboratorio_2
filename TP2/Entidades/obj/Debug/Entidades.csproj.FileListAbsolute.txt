@@ -23,3 +23,9 @@ D:\C#\Lab2 2019\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cach
 D:\C#\Lab2 2019\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\C#\Lab2 2019\TP-02\Entidades\obj\Debug\Entidades.dll
 D:\C#\Lab2 2019\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Brenda\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Brenda\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Brenda\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Brenda\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Brenda\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.pdb

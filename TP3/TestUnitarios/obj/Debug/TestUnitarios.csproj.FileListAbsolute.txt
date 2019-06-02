@@ -23,6 +23,7 @@ D:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInpu
 D:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
 D:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
 D:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb
+<<<<<<< HEAD
 F:\C#\Lab2 2019\TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 F:\C#\Lab2 2019\TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 F:\C#\Lab2 2019\TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -48,3 +49,5 @@ F:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInpu
 F:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
 F:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
 F:\C#\Lab2 2019\TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb
+=======
+>>>>>>> de2094d0f3f6ef6c7950acd1a25e4153ddb45830

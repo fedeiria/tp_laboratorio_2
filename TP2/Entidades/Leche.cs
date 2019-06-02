@@ -23,17 +23,14 @@ namespace Entidades_2018
         /// <param name="marca"></param>
         /// <param name="patente"></param>
         /// <param name="color"></param>
-        public Leche(EMarca marca, string codigo, ConsoleColor color)
-            : base(codigo, marca, color)
-        {
-            this.tipo = ETipo.Entera;
-        }
-
         public Leche(EMarca marca, string codigo, ConsoleColor color, ETipo tipo)
-            : this(marca, codigo, color)
+            : base(codigo, marca, color)
         {
             this.tipo = tipo;
         }
+
+        public Leche(EMarca marca, string codigo, ConsoleColor color)
+            : this(marca, codigo, color, ETipo.Entera) { }
         #endregion
 
         #region "Propiedades"
