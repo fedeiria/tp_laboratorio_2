@@ -68,7 +68,7 @@ namespace EntidadesAbstractas
 
         #region "Propiedades"
         /// <summary>
-        /// Obtiene y establece el atributo nombre.
+        /// Obtiene y agrega el nombre de la persona.
         /// </summary>
         public string Nombre
         {
@@ -83,7 +83,7 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Obtiene y establece el atributo apellido.
+        /// Obtiene y agrega el apellido de la persona.
         /// </summary>
         public string Apellido
         {
@@ -98,7 +98,7 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Obtiene y establece el atributo dni.
+        /// Obtiene y agrega el dni de la persona.
         /// </summary>
         public int DNI
         {
@@ -113,7 +113,7 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Establece el atributo dni.
+        /// Agrega el dni de la persona.
         /// </summary>
         public string StringToDNI
         {
@@ -124,7 +124,7 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Obtiene y establece el enumerado ENacionalidad.
+        /// Obtiene y agrega la nacionalidad de la persona a partir del enumerado ENacionalidad.
         /// </summary>
         public ENacionalidad Nacionalidad
         {

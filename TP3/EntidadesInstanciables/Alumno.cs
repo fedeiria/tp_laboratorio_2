@@ -74,7 +74,7 @@ namespace EntidadesInstanciables
 
         #region "Operadores"
         /// <summary>
-        /// Retorna true si el estado de cuenta del alumno es distinto a Deudor y toma la clase que se pasa por parametro.
+        /// Retorna true si el estado de cuenta del alumno es distinto a Deudor y toma esa clase.
         /// </summary>
         /// <param name="a"></param>
         /// <param name="clase"></param>
@@ -85,7 +85,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Retorna true si el alumno no toma la clase que se pasa por parametro.
+        /// Retorna true si el alumno no toma esa clase.
         /// </summary>
         /// <param name="a"></param>
         /// <param name="clase"></param>

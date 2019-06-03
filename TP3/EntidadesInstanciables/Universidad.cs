@@ -34,7 +34,7 @@ namespace EntidadesInstanciables
 
         #region "Propiedades"
         /// <summary>
-        /// Obtiene y establece un objeto de la lista de jornadas segun su indice.
+        /// Obtiene y agrega un item de la lista de jornadas segun su indice.
         /// </summary>
         /// <param name="i"></param>
         /// <returns></returns>
@@ -51,7 +51,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Obtiene y establece un objeto de la lista de jornadas.
+        /// Obtiene y agrega un item de la lista de jornadas.
         /// </summary>
         public List<Jornada> Jornadas
         {
@@ -66,7 +66,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Obtiene y establece un objeto de la lista de alumnos.
+        /// Obtiene y agrega un item de la lista de alumnos.
         /// </summary>
         public List<Alumno> Alumnos
         {
@@ -81,7 +81,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Obtiene y establece un objeto de la lista de Profesores.
+        /// Obtiene y agrega un item de la lista de Profesores.
         /// </summary>
         public List<Profesor> Instructores
         {
@@ -158,7 +158,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Retorna el primer profesor capaz de dar la clase indicada por parametro.
+        /// Retorna el primer profesor capaz de dar la clase.
         /// </summary>
         /// <param name="g"></param>
         /// <param name="clase"></param>
@@ -177,7 +177,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Retorna el primer profesor que no puede dar la clase indicada por parametro.
+        /// Retorna el primer profesor que no puede dar la clase.
         /// </summary>
         /// <param name="g"></param>
         /// <param name="clase"></param>

@@ -38,7 +38,7 @@ namespace EntidadesInstanciables
 
         #region "Propiedades"
         /// <summary>
-        /// Obtiene y establece una clase del enumerado EClases
+        /// Obtiene y agrega una clase del enumerado EClases
         /// </summary>
         public Universidad.EClases Clase
         {
@@ -53,7 +53,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Obtiene y establece un objeto de la clase Profesor.
+        /// Obtiene y agrega un objeto de la clase Profesor.
         /// </summary>
         public Profesor Instructor
         {
@@ -68,7 +68,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Obtiene y establece un objeto de la lista de alumnos.
+        /// Obtiene y agrega un item de la lista de alumnos.
         /// </summary>
         public List<Alumno> Alumnos
         {

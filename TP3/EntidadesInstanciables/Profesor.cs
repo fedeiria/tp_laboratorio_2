@@ -47,7 +47,7 @@ namespace EntidadesInstanciables
 
         #region "Metodos"
         /// <summary>
-        /// Asigna dos clases aleatorios a la lista de clases.
+        /// Asigna dos clases aleatorios a la lista de clases del profesor.
         /// </summary>
         private void _randomClases()
         {
@@ -97,7 +97,7 @@ namespace EntidadesInstanciables
 
         #region "Operadores"
         /// <summary>
-        /// retorna true si el profesor tiene asignada la clase pasada en el parametro clase.
+        /// retorna true si el profesor tiene asignada la clase.
         /// </summary>
         /// <param name="i"></param>
         /// <param name="clase"></param>
@@ -108,7 +108,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// retorna false si el profesor no tiene asignada la clase pasada en el parametro clase.
+        /// retorna false si el profesor no tiene asignada la clase.
         /// </summary>
         /// <param name="i"></param>
         /// <param name="clase"></param>
