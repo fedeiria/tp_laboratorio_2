@@ -78,7 +78,6 @@ D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
 D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.csproj.CopyComplete
 D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.exe
 D:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.pdb
-<<<<<<< HEAD
 F:\C#\Lab2 2019\TP3\Program\bin\Debug\Program.exe.config
 F:\C#\Lab2 2019\TP3\Program\bin\Debug\Program.exe
 F:\C#\Lab2 2019\TP3\Program\bin\Debug\Program.pdb
@@ -95,5 +94,3 @@ F:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
 F:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.csproj.CopyComplete
 F:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.exe
 F:\C#\Lab2 2019\TP3\Program\obj\Debug\Program.pdb
-=======
->>>>>>> de2094d0f3f6ef6c7950acd1a25e4153ddb45830

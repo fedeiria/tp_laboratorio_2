@@ -177,7 +177,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Retorna el primer profesor que no puede dar la clase.
+        /// Retorna el primer profesor que no pueda dar la clase.
         /// </summary>
         /// <param name="g"></param>
         /// <param name="clase"></param>
@@ -271,7 +271,7 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Lee los datos de un archivo xml
+        /// Lee los datos de un archivo xml.
         /// </summary>
         /// <returns></returns>
         public static bool Leer()

@@ -26,11 +26,9 @@ D:\C#\Lab2 2019\TP3\Excepciones\bin\Debug\Excepciones.pdb
 D:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 D:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.dll
 D:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.pdb
-<<<<<<< HEAD
 F:\C#\Lab2 2019\TP3\Excepciones\bin\Debug\Excepciones.dll
 F:\C#\Lab2 2019\TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
 F:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 F:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.dll
 F:\C#\Lab2 2019\TP3\Excepciones\obj\Debug\Excepciones.pdb
-=======
->>>>>>> de2094d0f3f6ef6c7950acd1a25e4153ddb45830
