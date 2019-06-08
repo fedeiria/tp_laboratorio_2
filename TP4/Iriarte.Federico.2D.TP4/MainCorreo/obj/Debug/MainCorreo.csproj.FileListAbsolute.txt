@@ -1,0 +1,10 @@
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+D:\C#\Lab2 2019\TP4\Iriarte.Federico.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
