@@ -38,6 +38,7 @@ namespace MainCorreo
                 try
                 {
                     correo += nuevoPaquete;
+                    this.mtxtTrackingID.Focus();
                 }
                 catch (TrackingIdRepetidoException idRepetido)
                 {

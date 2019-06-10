@@ -88,7 +88,7 @@ namespace Entidades
             {
                 if (aux == p)
                 {
-                    throw new TrackingIdRepetidoException("El paquete ya se encuentra en la lista.");
+                    throw new TrackingIdRepetidoException($"El Tracking ID {aux.TrackingID} ya figura en la lista de envios.");
                 }
             }
 

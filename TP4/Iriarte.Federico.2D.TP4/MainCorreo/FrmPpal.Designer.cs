@@ -113,6 +113,7 @@
             // 
             // lstEstadoEntregado
             // 
+            this.lstEstadoEntregado.ContextMenuStrip = this.cmsListas;
             this.lstEstadoEntregado.FormattingEnabled = true;
             this.lstEstadoEntregado.Location = new System.Drawing.Point(502, 56);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";
@@ -191,8 +192,10 @@
             // 
             // rtbMostrar
             // 
+            this.rtbMostrar.Enabled = false;
             this.rtbMostrar.Location = new System.Drawing.Point(12, 323);
             this.rtbMostrar.Name = "rtbMostrar";
+            this.rtbMostrar.ReadOnly = true;
             this.rtbMostrar.Size = new System.Drawing.Size(435, 115);
             this.rtbMostrar.TabIndex = 7;
             this.rtbMostrar.TabStop = false;
@@ -203,12 +206,12 @@
             this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mostrarToolStripMenuItem});
             this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(178, 26);
+            this.cmsListas.Size = new System.Drawing.Size(181, 48);
             // 
             // mostrarToolStripMenuItem
             // 
             this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
-            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
             this.mostrarToolStripMenuItem.Text = "Mostrar Entregados";
             this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
